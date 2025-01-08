@@ -7,9 +7,6 @@
 
 <p align="center">
     preview do podcast
-</p>
-
-<p align="center">
     <audio src="Podcast Métricas.MP3" controls title="Podcast editado"></audio>
 </p>
 
