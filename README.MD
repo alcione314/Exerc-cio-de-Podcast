@@ -9,9 +9,9 @@
     preview do podcast
 </p>
 
-<div align="center">
+<p align="center">
     <audio src="Podcast Métricas.MP3" controls title="Podcast editado"></audio>
-</div>
+</p>
 
 # Projeto Podcast Gerado por I.A.s
 
