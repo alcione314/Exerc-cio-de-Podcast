@@ -32,7 +32,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - [Link do Podcast no Spotify](https://open.spotify.com/episode/6lKac8i5olNqN7jT2Z25LU?si=VaCrelWoQiCUzdjdTNSAkA)
 - [Notion Template](https://www.notion.so/PAS-Podcast-AI-Studio-M-tricas-1756ce055c1a801b9498d3ea4b7193d2)
-- [Editor de aúdio](https://www.capcut.com/editor/552B447D-76C5-4292-8721-01A972D0ED1F?start_tab=video&enter_from=create_new&from_page=work_space&tab=all&__action_from=templates&position=templates&scenario=custom&workspaceId=7457209310062526470&spaceId=7457208194965259269)
+- [Editor de áudio](https://www.capcut.com/editor/552B447D-76C5-4292-8721-01A972D0ED1F?start_tab=video&enter_from=create_new&from_page=work_space&tab=all&__action_from=templates&position=templates&scenario=custom&workspaceId=7457209310062526470&spaceId=7457208194965259269)
 
 
 ## 🛠️ Instruções de execução
