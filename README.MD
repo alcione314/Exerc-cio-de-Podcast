@@ -14,10 +14,15 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA por meio
 
 Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
+
 Título do Podcast: "Senhor dos Dados"
+
 Subtítulo: "Uma jornada pelas métricas que transformam projetos em sucessos"
+
 Apresentador: Metrione
+
 Observação: o tema não se esgota nesse podcast, que foi realizado apenas a título de aprendizado das ferramentas, usando informações limitadas.
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
